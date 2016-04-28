@@ -5,7 +5,7 @@ This is a toy project, it indexes Gutenberg project using the standard tf-idf, a
 ## Example
 Run 'query_main.py' to query:
 
-![alt tag](https://raw.githubusercontent.com/genehwung/gutenberg_indexer/capture.png)
+![alt tag](https://github.com/genehwung/gutenberg_indexer/blob/master/Capture.PNG)
 
 
 ## Motivation
